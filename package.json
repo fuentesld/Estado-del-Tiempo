@@ -1,0 +1,22 @@
+{
+  "name": "05-estadodeltiempo",
+  "version": "1.0.0",
+  "description": "Esta plaicación lee de consola un lugar y proporciona el estado del tiempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuentesld/Estado-del-Tiempo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuentesld/Estado-del-Tiempo/issues"
+  },
+  "homepage": "https://github.com/fuentesld/Estado-del-Tiempo#readme",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
